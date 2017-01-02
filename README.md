@@ -9,3 +9,23 @@
 8. https://github.com/verekia/js-stack-from-scratch
 9. https://github.com/engineerapart/TheRemoteFreelancer
 10. https://github.com/krisk/Fuse
+
+
+## Javascript Questions
+
+1. http://javascriptissexy.com/javascript-objects-in-detail/
+2. http://stackoverflow.com/questions/518000/is-javascript-a-pass-by-reference-or-pass-by-value-language
+3. http://stackoverflow.com/questions/6605640/javascript-by-reference-vs-by-value
+4. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty
+5. http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/
+6. Isolated Scopes (&, @, =)
+7. http://stackoverflow.com/questions/23074875/angularjs-factory-and-service
+8. http://stackoverflow.com/questions/15666048/angularjs-service-vs-provider-vs-factory
+9. https://www.sitepoint.com/understanding-angulars-apply-digest/
+10. https://www.toptal.com/angular-js/interview-questions
+11. http://stackoverflow.com/questions/1986896/what-is-the-difference-between-call-and-apply
+12. https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+13. http://www.thatjsdude.com/interview/js2.html
+14. http://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html
+15. https://www.ng-book.com/p/The-Digest-Loop-and-apply/
+16. https://www.smashingmagazine.com/2015/01/angularjs-internals-in-depth/
