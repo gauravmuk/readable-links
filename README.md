@@ -29,3 +29,7 @@
 14. http://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html
 15. https://www.ng-book.com/p/The-Digest-Loop-and-apply/
 16. https://www.smashingmagazine.com/2015/01/angularjs-internals-in-depth/
+
+
+1. https://speakerdeck.com/smashingmag/improving-web-fonts-performance
+2. https://speakerdeck.com/smashingmag/responsive-adventures-dirty-tricks-from-the-dark-corners-of-front-end
