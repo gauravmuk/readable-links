@@ -34,3 +34,7 @@
 ## Dusron ke pravachan
 1. https://speakerdeck.com/smashingmag/improving-web-fonts-performance
 2. https://speakerdeck.com/smashingmag/responsive-adventures-dirty-tricks-from-the-dark-corners-of-front-end
+
+
+## Mindblowing
+1. https://www.justinobeirne.com/google-maps-moat
