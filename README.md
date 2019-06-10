@@ -38,3 +38,6 @@
 
 ## Mindblowing
 1. https://www.justinobeirne.com/google-maps-moat
+
+## React/Vue
+1. https://sebastiandedeyne.com/react-for-vue-developers/
