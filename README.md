@@ -41,3 +41,6 @@
 
 ## React/Vue
 1. https://sebastiandedeyne.com/react-for-vue-developers/
+
+## ES6
+1. https://javascript.info/async-await
