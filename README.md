@@ -44,3 +44,12 @@
 
 ## ES6
 1. https://javascript.info/async-await
+
+## MDN
+1. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+2. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
+3. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Trailing_commas
+4. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
+5. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/rest_parameters
+6. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/iterator
+7. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
